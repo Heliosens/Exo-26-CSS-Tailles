@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    color: coral;
+}
+
+a{
+    text-decoration-line: none;
+    color: blueviolet;
+    background-color: cornflowerblue;
+}
+
+div {
+    margin: auto;
+}
+
+.shadow {
+    text-shadow: 2px 2px 2px darkcyan;
+}
+
+li {
+    list-style: inside;
+}
+
+.italic {
+    font-style: italic;
+    font-weight: normal;
+}
+
+.bold {
+    font-weight: bold;
+    font-style: normal;
+}
+
+p {
+    margin: 15px;
+    padding: 20px;
+    text-indent: 20%;
+    background-color: #a400ff;
+}
+
+.cadre {
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+}
+
